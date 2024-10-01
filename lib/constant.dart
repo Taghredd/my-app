@@ -1,0 +1,30 @@
+List image = [
+  "assets/images/q3.jpg",
+  "assets/images/q5.jpg",
+  "assets/images/g4.jpg",
+  "assets/images/OIP.png",
+  "assets/images/p1.jpg",
+  "assets/images/p2.jpg",
+  "assets/images/p3.jpg",
+  "assets/images/profile.png",
+  "assets/images/t1.jpg",
+  "assets/images/t2.jpg",
+  "assets/images/t3.jpg",
+  "assets/images/t4.jpg",
+  "assets/images/t5.jpg",
+  "assets/images/t6.jpg",
+  "assets/images/t9.jpg",
+  "assets/images/t8.jpg",
+  "assets/images/t9.jpg",
+];
+
+List text = [
+  "+Add",
+  "Video",
+  "#ghraphics",
+  "#photo",
+  "+Add",
+  "Video",
+  "#ghraphics",
+  "#photo",
+];
